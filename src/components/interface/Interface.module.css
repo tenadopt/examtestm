@@ -1,0 +1,22 @@
+.int {
+    width: 300px;
+    height: 300px;
+    font-size: 70px;
+    background-color: #ffb114;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.intlim {
+    width: 300px;
+    height: 300px;
+    font-size: 100px;
+    background-color: #ffb114;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    color: red;
+}
